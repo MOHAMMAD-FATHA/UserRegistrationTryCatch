@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserRegisTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-01T16:05:58" hostname="DESKTOP-KLF40L0" time="0.072">
+  <properties/>
+  <testcase name="givenPassword4_WhenNo_OneUpCase_OneNum_OneSpecial_ShouldReturnFalse" classname="UserRegisTest" time="0.072"/>
+  <system-out><![CDATA[please enter valid Contact Number.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
