@@ -41,7 +41,7 @@ public class UserRegistration {
                 System.out.println("thank you");
                 return true;
             } else {
-                throw new InvalidEntryException("please enter valid Last Name.");
+                throw new InvalidEntryException("please enter valid Email ID.");
             }
         }catch (InvalidEntryException e ){
             System.out.println(e.getMessage());
